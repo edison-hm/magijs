@@ -3,23 +3,119 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [0.0.1](https://github.com/stbui/magijs/compare/v0.0.1-alpha.48...v0.0.1) (2024-05-16)
-
+## 0.0.4-alpha.0 (2024-12-24)
 
 ### Bug Fixes
 
-* 移除npm-upldate ([37e0470](https://github.com/stbui/magijs/commit/37e0470267f546b9243efd0f36c209b9b4c0d3e7))
-
+- 移除 npm-upldate ([37e0470](https://github.com/edison-hm/magijs/commit/37e0470267f546b9243efd0f36c209b9b4c0d3e7))
 
 ### Features
 
-* 修复安全漏洞 ([fac27cd](https://github.com/stbui/magijs/commit/fac27cdd8d007a390f8be56036046f606760c135))
-* **lint:** 更新 ([f7bdad9](https://github.com/stbui/magijs/commit/f7bdad977f8887889af453ef762a0cf1114dd989))
-* wip ([23de487](https://github.com/stbui/magijs/commit/23de4874dc9863ed99198a2ba92e9283156a1fe8))
+- 调整插件 ([413195f](https://github.com/edison-hm/magijs/commit/413195f57c947f549273b3733af42b2a27aa34f8))
+- 更新 version ([4e34e33](https://github.com/edison-hm/magijs/commit/4e34e33abb9d44053fb832116ee9f42f8a267083))
+- 完善 vue 打包集成 ([2a2f332](https://github.com/edison-hm/magijs/commit/2a2f3327312949adafaa09a0ea20b53831ff2ea0))
+- 修复安全漏洞 ([fac27cd](https://github.com/edison-hm/magijs/commit/fac27cdd8d007a390f8be56036046f606760c135))
+- 修复 preset 加载问题 ([0504875](https://github.com/edison-hm/magijs/commit/050487573ed100968836fb615e8f86c7de689325))
+- add plugin ([6b7a289](https://github.com/edison-hm/magijs/commit/6b7a28936304b73a2d939ec6a0ec7b5d0eb7478f))
+- cli ([29517c5](https://github.com/edison-hm/magijs/commit/29517c5cf037d4013f7609a3d28e56b5531a83c9))
+- compiled ([5ea8f06](https://github.com/edison-hm/magijs/commit/5ea8f065dac7e5ebabc58b0ba4ce7eff9a9903ba))
+- create-app 临时文件 ([8b1db83](https://github.com/edison-hm/magijs/commit/8b1db8386945f87b0b1c65cc7ab0c0168f41d4f7))
+- init ([0ba9bce](https://github.com/edison-hm/magijs/commit/0ba9bceb41d6ce04c2171a12a0af8daef3ca02bf))
+- **lint:** 更新 ([f7bdad9](https://github.com/edison-hm/magijs/commit/f7bdad977f8887889af453ef762a0cf1114dd989))
+- update ([cb5a15e](https://github.com/edison-hm/magijs/commit/cb5a15eb39e9e1bfa87a1b2cb52adea2ba313aeb))
+- **vue:** 完善部署功能 ([84f9282](https://github.com/edison-hm/magijs/commit/84f928226b71f6a383a019a630c0e974b5a242eb))
+- **vue:** 完善部署功能 ([a054349](https://github.com/edison-hm/magijs/commit/a054349a3660b3a507e01e45dd31e342a3468c8e))
+- **vue:** 完善 vue 模板 ([e1a3767](https://github.com/edison-hm/magijs/commit/e1a37676636dd5dd141228fb5008145c443431cd))
+- wi pwip ([ceddc86](https://github.com/edison-hm/magijs/commit/ceddc864a743fb583338be81bc72fdbf6c0b164a))
+- wip ([23de487](https://github.com/edison-hm/magijs/commit/23de4874dc9863ed99198a2ba92e9283156a1fe8))
+- wip ([6ffe840](https://github.com/edison-hm/magijs/commit/6ffe84024636fa6c1645fd1dea2a4ac498cf4912))
+- wip ([31700ae](https://github.com/edison-hm/magijs/commit/31700aec0991ba336a36e5ffeaef8a2fbaf50d23))
+- wip ([ddffeab](https://github.com/edison-hm/magijs/commit/ddffeaba510af1a8c1b5b4c1805a2f05b1ac96f3))
+- wip ([8904db1](https://github.com/edison-hm/magijs/commit/8904db1fa6efed268c98233ac54076f36092fb3d))
+- wip ([3b2a964](https://github.com/edison-hm/magijs/commit/3b2a964f5267ea6afa1333a75c901f77b4d0a0fa))
+- wip ([5046560](https://github.com/edison-hm/magijs/commit/5046560d22696a6fe416e00f29bb714e9f7d4d6a))
+- wip ([d30e5db](https://github.com/edison-hm/magijs/commit/d30e5db73b48cd1147969835a45a784a464cbdb1))
+- wip ([a6f7b79](https://github.com/edison-hm/magijs/commit/a6f7b79875033eea566ea1d37a346c18a436c123))
 
+## 0.0.3-alpha.0 (2024-12-24)
 
+### Bug Fixes
 
+- 移除 npm-upldate ([37e0470](https://github.com/edison-hm/magijs/commit/37e0470267f546b9243efd0f36c209b9b4c0d3e7))
 
+### Features
+
+- 调整插件 ([413195f](https://github.com/edison-hm/magijs/commit/413195f57c947f549273b3733af42b2a27aa34f8))
+- 更新 version ([4e34e33](https://github.com/edison-hm/magijs/commit/4e34e33abb9d44053fb832116ee9f42f8a267083))
+- 完善 vue 打包集成 ([2a2f332](https://github.com/edison-hm/magijs/commit/2a2f3327312949adafaa09a0ea20b53831ff2ea0))
+- 修复安全漏洞 ([fac27cd](https://github.com/edison-hm/magijs/commit/fac27cdd8d007a390f8be56036046f606760c135))
+- 修复 preset 加载问题 ([0504875](https://github.com/edison-hm/magijs/commit/050487573ed100968836fb615e8f86c7de689325))
+- add plugin ([6b7a289](https://github.com/edison-hm/magijs/commit/6b7a28936304b73a2d939ec6a0ec7b5d0eb7478f))
+- cli ([29517c5](https://github.com/edison-hm/magijs/commit/29517c5cf037d4013f7609a3d28e56b5531a83c9))
+- compiled ([5ea8f06](https://github.com/edison-hm/magijs/commit/5ea8f065dac7e5ebabc58b0ba4ce7eff9a9903ba))
+- create-app 临时文件 ([8b1db83](https://github.com/edison-hm/magijs/commit/8b1db8386945f87b0b1c65cc7ab0c0168f41d4f7))
+- init ([0ba9bce](https://github.com/edison-hm/magijs/commit/0ba9bceb41d6ce04c2171a12a0af8daef3ca02bf))
+- **lint:** 更新 ([f7bdad9](https://github.com/edison-hm/magijs/commit/f7bdad977f8887889af453ef762a0cf1114dd989))
+- update ([cb5a15e](https://github.com/edison-hm/magijs/commit/cb5a15eb39e9e1bfa87a1b2cb52adea2ba313aeb))
+- **vue:** 完善部署功能 ([84f9282](https://github.com/edison-hm/magijs/commit/84f928226b71f6a383a019a630c0e974b5a242eb))
+- **vue:** 完善部署功能 ([a054349](https://github.com/edison-hm/magijs/commit/a054349a3660b3a507e01e45dd31e342a3468c8e))
+- **vue:** 完善 vue 模板 ([e1a3767](https://github.com/edison-hm/magijs/commit/e1a37676636dd5dd141228fb5008145c443431cd))
+- wi pwip ([ceddc86](https://github.com/edison-hm/magijs/commit/ceddc864a743fb583338be81bc72fdbf6c0b164a))
+- wip ([23de487](https://github.com/edison-hm/magijs/commit/23de4874dc9863ed99198a2ba92e9283156a1fe8))
+- wip ([6ffe840](https://github.com/edison-hm/magijs/commit/6ffe84024636fa6c1645fd1dea2a4ac498cf4912))
+- wip ([31700ae](https://github.com/edison-hm/magijs/commit/31700aec0991ba336a36e5ffeaef8a2fbaf50d23))
+- wip ([ddffeab](https://github.com/edison-hm/magijs/commit/ddffeaba510af1a8c1b5b4c1805a2f05b1ac96f3))
+- wip ([8904db1](https://github.com/edison-hm/magijs/commit/8904db1fa6efed268c98233ac54076f36092fb3d))
+- wip ([3b2a964](https://github.com/edison-hm/magijs/commit/3b2a964f5267ea6afa1333a75c901f77b4d0a0fa))
+- wip ([5046560](https://github.com/edison-hm/magijs/commit/5046560d22696a6fe416e00f29bb714e9f7d4d6a))
+- wip ([d30e5db](https://github.com/edison-hm/magijs/commit/d30e5db73b48cd1147969835a45a784a464cbdb1))
+- wip ([a6f7b79](https://github.com/edison-hm/magijs/commit/a6f7b79875033eea566ea1d37a346c18a436c123))
+
+## 0.0.2-alpha.0 (2024-12-24)
+
+### Bug Fixes
+
+- 移除 npm-upldate ([37e0470](https://github.com/edison-hm/magijs/commit/37e0470267f546b9243efd0f36c209b9b4c0d3e7))
+
+### Features
+
+- 调整插件 ([413195f](https://github.com/edison-hm/magijs/commit/413195f57c947f549273b3733af42b2a27aa34f8))
+- 更新 version ([4e34e33](https://github.com/edison-hm/magijs/commit/4e34e33abb9d44053fb832116ee9f42f8a267083))
+- 完善 vue 打包集成 ([2a2f332](https://github.com/edison-hm/magijs/commit/2a2f3327312949adafaa09a0ea20b53831ff2ea0))
+- 修复安全漏洞 ([fac27cd](https://github.com/edison-hm/magijs/commit/fac27cdd8d007a390f8be56036046f606760c135))
+- 修复 preset 加载问题 ([0504875](https://github.com/edison-hm/magijs/commit/050487573ed100968836fb615e8f86c7de689325))
+- add plugin ([6b7a289](https://github.com/edison-hm/magijs/commit/6b7a28936304b73a2d939ec6a0ec7b5d0eb7478f))
+- cli ([29517c5](https://github.com/edison-hm/magijs/commit/29517c5cf037d4013f7609a3d28e56b5531a83c9))
+- compiled ([5ea8f06](https://github.com/edison-hm/magijs/commit/5ea8f065dac7e5ebabc58b0ba4ce7eff9a9903ba))
+- create-app 临时文件 ([8b1db83](https://github.com/edison-hm/magijs/commit/8b1db8386945f87b0b1c65cc7ab0c0168f41d4f7))
+- init ([0ba9bce](https://github.com/edison-hm/magijs/commit/0ba9bceb41d6ce04c2171a12a0af8daef3ca02bf))
+- **lint:** 更新 ([f7bdad9](https://github.com/edison-hm/magijs/commit/f7bdad977f8887889af453ef762a0cf1114dd989))
+- update ([cb5a15e](https://github.com/edison-hm/magijs/commit/cb5a15eb39e9e1bfa87a1b2cb52adea2ba313aeb))
+- **vue:** 完善部署功能 ([84f9282](https://github.com/edison-hm/magijs/commit/84f928226b71f6a383a019a630c0e974b5a242eb))
+- **vue:** 完善部署功能 ([a054349](https://github.com/edison-hm/magijs/commit/a054349a3660b3a507e01e45dd31e342a3468c8e))
+- **vue:** 完善 vue 模板 ([e1a3767](https://github.com/edison-hm/magijs/commit/e1a37676636dd5dd141228fb5008145c443431cd))
+- wi pwip ([ceddc86](https://github.com/edison-hm/magijs/commit/ceddc864a743fb583338be81bc72fdbf6c0b164a))
+- wip ([23de487](https://github.com/edison-hm/magijs/commit/23de4874dc9863ed99198a2ba92e9283156a1fe8))
+- wip ([6ffe840](https://github.com/edison-hm/magijs/commit/6ffe84024636fa6c1645fd1dea2a4ac498cf4912))
+- wip ([31700ae](https://github.com/edison-hm/magijs/commit/31700aec0991ba336a36e5ffeaef8a2fbaf50d23))
+- wip ([ddffeab](https://github.com/edison-hm/magijs/commit/ddffeaba510af1a8c1b5b4c1805a2f05b1ac96f3))
+- wip ([8904db1](https://github.com/edison-hm/magijs/commit/8904db1fa6efed268c98233ac54076f36092fb3d))
+- wip ([3b2a964](https://github.com/edison-hm/magijs/commit/3b2a964f5267ea6afa1333a75c901f77b4d0a0fa))
+- wip ([5046560](https://github.com/edison-hm/magijs/commit/5046560d22696a6fe416e00f29bb714e9f7d4d6a))
+- wip ([d30e5db](https://github.com/edison-hm/magijs/commit/d30e5db73b48cd1147969835a45a784a464cbdb1))
+- wip ([a6f7b79](https://github.com/edison-hm/magijs/commit/a6f7b79875033eea566ea1d37a346c18a436c123))
+
+## [0.0.1](https://github.com/stbui/magijs/compare/v0.0.1-alpha.48...v0.0.1) (2024-05-16)
+
+### Bug Fixes
+
+- 移除 npm-upldate ([37e0470](https://github.com/stbui/magijs/commit/37e0470267f546b9243efd0f36c209b9b4c0d3e7))
+
+### Features
+
+- 修复安全漏洞 ([fac27cd](https://github.com/stbui/magijs/commit/fac27cdd8d007a390f8be56036046f606760c135))
+- **lint:** 更新 ([f7bdad9](https://github.com/stbui/magijs/commit/f7bdad977f8887889af453ef762a0cf1114dd989))
+- wip ([23de487](https://github.com/stbui/magijs/commit/23de4874dc9863ed99198a2ba92e9283156a1fe8))
 
 ## [0.0.1-alpha.48](https://github.com/stbui/magijs/compare/v0.0.1-alpha.47...v0.0.1-alpha.48) (2022-12-06)
 

@@ -3,13 +3,78 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.0.4-alpha.0 (2024-12-24)
+
+### Features
+
+- 更新 version ([4e34e33](https://github.com/edison-hm/magijs/commit/4e34e33abb9d44053fb832116ee9f42f8a267083))
+- add plugin ([6b7a289](https://github.com/edison-hm/magijs/commit/6b7a28936304b73a2d939ec6a0ec7b5d0eb7478f))
+- cli ([29517c5](https://github.com/edison-hm/magijs/commit/29517c5cf037d4013f7609a3d28e56b5531a83c9))
+- compiled ([5ea8f06](https://github.com/edison-hm/magijs/commit/5ea8f065dac7e5ebabc58b0ba4ce7eff9a9903ba))
+- init ([0ba9bce](https://github.com/edison-hm/magijs/commit/0ba9bceb41d6ce04c2171a12a0af8daef3ca02bf))
+- openapi ([33feab6](https://github.com/edison-hm/magijs/commit/33feab62bcb997decfab8fe68cd72691c516cab9))
+- **vue:** 完善部署功能 ([84f9282](https://github.com/edison-hm/magijs/commit/84f928226b71f6a383a019a630c0e974b5a242eb))
+- **vue:** 完善部署功能 ([a054349](https://github.com/edison-hm/magijs/commit/a054349a3660b3a507e01e45dd31e342a3468c8e))
+- wi pwip ([ceddc86](https://github.com/edison-hm/magijs/commit/ceddc864a743fb583338be81bc72fdbf6c0b164a))
+- wip ([6c79195](https://github.com/edison-hm/magijs/commit/6c7919582fdc462bc0c760f092d680c9989d9ed6))
+- wip ([6ffe840](https://github.com/edison-hm/magijs/commit/6ffe84024636fa6c1645fd1dea2a4ac498cf4912))
+- wip ([eff550f](https://github.com/edison-hm/magijs/commit/eff550fdf3c9de29d17ad7689bb2388c38562f24))
+- wip ([31700ae](https://github.com/edison-hm/magijs/commit/31700aec0991ba336a36e5ffeaef8a2fbaf50d23))
+- wip ([ddffeab](https://github.com/edison-hm/magijs/commit/ddffeaba510af1a8c1b5b4c1805a2f05b1ac96f3))
+- wip ([8904db1](https://github.com/edison-hm/magijs/commit/8904db1fa6efed268c98233ac54076f36092fb3d))
+- wip ([5046560](https://github.com/edison-hm/magijs/commit/5046560d22696a6fe416e00f29bb714e9f7d4d6a))
+- wip ([d30e5db](https://github.com/edison-hm/magijs/commit/d30e5db73b48cd1147969835a45a784a464cbdb1))
+- wip ([a6f7b79](https://github.com/edison-hm/magijs/commit/a6f7b79875033eea566ea1d37a346c18a436c123))
+
+## 0.0.3-alpha.0 (2024-12-24)
+
+### Features
+
+- 更新 version ([4e34e33](https://github.com/edison-hm/magijs/commit/4e34e33abb9d44053fb832116ee9f42f8a267083))
+- add plugin ([6b7a289](https://github.com/edison-hm/magijs/commit/6b7a28936304b73a2d939ec6a0ec7b5d0eb7478f))
+- cli ([29517c5](https://github.com/edison-hm/magijs/commit/29517c5cf037d4013f7609a3d28e56b5531a83c9))
+- compiled ([5ea8f06](https://github.com/edison-hm/magijs/commit/5ea8f065dac7e5ebabc58b0ba4ce7eff9a9903ba))
+- init ([0ba9bce](https://github.com/edison-hm/magijs/commit/0ba9bceb41d6ce04c2171a12a0af8daef3ca02bf))
+- openapi ([33feab6](https://github.com/edison-hm/magijs/commit/33feab62bcb997decfab8fe68cd72691c516cab9))
+- **vue:** 完善部署功能 ([84f9282](https://github.com/edison-hm/magijs/commit/84f928226b71f6a383a019a630c0e974b5a242eb))
+- **vue:** 完善部署功能 ([a054349](https://github.com/edison-hm/magijs/commit/a054349a3660b3a507e01e45dd31e342a3468c8e))
+- wi pwip ([ceddc86](https://github.com/edison-hm/magijs/commit/ceddc864a743fb583338be81bc72fdbf6c0b164a))
+- wip ([6c79195](https://github.com/edison-hm/magijs/commit/6c7919582fdc462bc0c760f092d680c9989d9ed6))
+- wip ([6ffe840](https://github.com/edison-hm/magijs/commit/6ffe84024636fa6c1645fd1dea2a4ac498cf4912))
+- wip ([eff550f](https://github.com/edison-hm/magijs/commit/eff550fdf3c9de29d17ad7689bb2388c38562f24))
+- wip ([31700ae](https://github.com/edison-hm/magijs/commit/31700aec0991ba336a36e5ffeaef8a2fbaf50d23))
+- wip ([ddffeab](https://github.com/edison-hm/magijs/commit/ddffeaba510af1a8c1b5b4c1805a2f05b1ac96f3))
+- wip ([8904db1](https://github.com/edison-hm/magijs/commit/8904db1fa6efed268c98233ac54076f36092fb3d))
+- wip ([5046560](https://github.com/edison-hm/magijs/commit/5046560d22696a6fe416e00f29bb714e9f7d4d6a))
+- wip ([d30e5db](https://github.com/edison-hm/magijs/commit/d30e5db73b48cd1147969835a45a784a464cbdb1))
+- wip ([a6f7b79](https://github.com/edison-hm/magijs/commit/a6f7b79875033eea566ea1d37a346c18a436c123))
+
+## 0.0.2-alpha.0 (2024-12-24)
+
+### Features
+
+- 更新 version ([4e34e33](https://github.com/edison-hm/magijs/commit/4e34e33abb9d44053fb832116ee9f42f8a267083))
+- add plugin ([6b7a289](https://github.com/edison-hm/magijs/commit/6b7a28936304b73a2d939ec6a0ec7b5d0eb7478f))
+- cli ([29517c5](https://github.com/edison-hm/magijs/commit/29517c5cf037d4013f7609a3d28e56b5531a83c9))
+- compiled ([5ea8f06](https://github.com/edison-hm/magijs/commit/5ea8f065dac7e5ebabc58b0ba4ce7eff9a9903ba))
+- init ([0ba9bce](https://github.com/edison-hm/magijs/commit/0ba9bceb41d6ce04c2171a12a0af8daef3ca02bf))
+- openapi ([33feab6](https://github.com/edison-hm/magijs/commit/33feab62bcb997decfab8fe68cd72691c516cab9))
+- **vue:** 完善部署功能 ([84f9282](https://github.com/edison-hm/magijs/commit/84f928226b71f6a383a019a630c0e974b5a242eb))
+- **vue:** 完善部署功能 ([a054349](https://github.com/edison-hm/magijs/commit/a054349a3660b3a507e01e45dd31e342a3468c8e))
+- wi pwip ([ceddc86](https://github.com/edison-hm/magijs/commit/ceddc864a743fb583338be81bc72fdbf6c0b164a))
+- wip ([6c79195](https://github.com/edison-hm/magijs/commit/6c7919582fdc462bc0c760f092d680c9989d9ed6))
+- wip ([6ffe840](https://github.com/edison-hm/magijs/commit/6ffe84024636fa6c1645fd1dea2a4ac498cf4912))
+- wip ([eff550f](https://github.com/edison-hm/magijs/commit/eff550fdf3c9de29d17ad7689bb2388c38562f24))
+- wip ([31700ae](https://github.com/edison-hm/magijs/commit/31700aec0991ba336a36e5ffeaef8a2fbaf50d23))
+- wip ([ddffeab](https://github.com/edison-hm/magijs/commit/ddffeaba510af1a8c1b5b4c1805a2f05b1ac96f3))
+- wip ([8904db1](https://github.com/edison-hm/magijs/commit/8904db1fa6efed268c98233ac54076f36092fb3d))
+- wip ([5046560](https://github.com/edison-hm/magijs/commit/5046560d22696a6fe416e00f29bb714e9f7d4d6a))
+- wip ([d30e5db](https://github.com/edison-hm/magijs/commit/d30e5db73b48cd1147969835a45a784a464cbdb1))
+- wip ([a6f7b79](https://github.com/edison-hm/magijs/commit/a6f7b79875033eea566ea1d37a346c18a436c123))
+
 ## [0.0.1](https://github.com/stbui/magijs/compare/v0.0.1-alpha.48...v0.0.1) (2024-05-16)
 
 **Note:** Version bump only for package @magijs/preset-plugin
-
-
-
-
 
 ## [0.0.1-alpha.48](https://github.com/stbui/magijs/compare/v0.0.1-alpha.47...v0.0.1-alpha.48) (2022-12-06)
 

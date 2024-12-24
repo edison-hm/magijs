@@ -3,17 +3,60 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [0.0.1](https://github.com/stbui/magijs/compare/v0.0.1-alpha.48...v0.0.1) (2024-05-16)
-
+## 0.0.4-alpha.0 (2024-12-24)
 
 ### Features
 
-* **lint:** 配置中移除prettier 对老配置的影响 ([685dafa](https://github.com/stbui/magijs/commit/685dafa90676f8c5077e1942ee8ec371ad08ff37))
-* prettier error ([61d9e97](https://github.com/stbui/magijs/commit/61d9e975232a92c9982af921ffa11779545530d6))
+- 更新 version ([4e34e33](https://github.com/edison-hm/magijs/commit/4e34e33abb9d44053fb832116ee9f42f8a267083))
+- compiled ([5ea8f06](https://github.com/edison-hm/magijs/commit/5ea8f065dac7e5ebabc58b0ba4ce7eff9a9903ba))
+- init ([0ba9bce](https://github.com/edison-hm/magijs/commit/0ba9bceb41d6ce04c2171a12a0af8daef3ca02bf))
+- **lint:** 配置中移除 prettier 对老配置的影响 ([685dafa](https://github.com/edison-hm/magijs/commit/685dafa90676f8c5077e1942ee8ec371ad08ff37))
+- prettier error ([61d9e97](https://github.com/edison-hm/magijs/commit/61d9e975232a92c9982af921ffa11779545530d6))
+- **vue:** 完善部署功能 ([a054349](https://github.com/edison-hm/magijs/commit/a054349a3660b3a507e01e45dd31e342a3468c8e))
+- wip ([31700ae](https://github.com/edison-hm/magijs/commit/31700aec0991ba336a36e5ffeaef8a2fbaf50d23))
+- wip ([ddffeab](https://github.com/edison-hm/magijs/commit/ddffeaba510af1a8c1b5b4c1805a2f05b1ac96f3))
+- wip ([8904db1](https://github.com/edison-hm/magijs/commit/8904db1fa6efed268c98233ac54076f36092fb3d))
+- wip ([d30e5db](https://github.com/edison-hm/magijs/commit/d30e5db73b48cd1147969835a45a784a464cbdb1))
+- wip ([a6f7b79](https://github.com/edison-hm/magijs/commit/a6f7b79875033eea566ea1d37a346c18a436c123))
 
+## 0.0.3-alpha.0 (2024-12-24)
 
+### Features
 
+- 更新 version ([4e34e33](https://github.com/edison-hm/magijs/commit/4e34e33abb9d44053fb832116ee9f42f8a267083))
+- compiled ([5ea8f06](https://github.com/edison-hm/magijs/commit/5ea8f065dac7e5ebabc58b0ba4ce7eff9a9903ba))
+- init ([0ba9bce](https://github.com/edison-hm/magijs/commit/0ba9bceb41d6ce04c2171a12a0af8daef3ca02bf))
+- **lint:** 配置中移除 prettier 对老配置的影响 ([685dafa](https://github.com/edison-hm/magijs/commit/685dafa90676f8c5077e1942ee8ec371ad08ff37))
+- prettier error ([61d9e97](https://github.com/edison-hm/magijs/commit/61d9e975232a92c9982af921ffa11779545530d6))
+- **vue:** 完善部署功能 ([a054349](https://github.com/edison-hm/magijs/commit/a054349a3660b3a507e01e45dd31e342a3468c8e))
+- wip ([31700ae](https://github.com/edison-hm/magijs/commit/31700aec0991ba336a36e5ffeaef8a2fbaf50d23))
+- wip ([ddffeab](https://github.com/edison-hm/magijs/commit/ddffeaba510af1a8c1b5b4c1805a2f05b1ac96f3))
+- wip ([8904db1](https://github.com/edison-hm/magijs/commit/8904db1fa6efed268c98233ac54076f36092fb3d))
+- wip ([d30e5db](https://github.com/edison-hm/magijs/commit/d30e5db73b48cd1147969835a45a784a464cbdb1))
+- wip ([a6f7b79](https://github.com/edison-hm/magijs/commit/a6f7b79875033eea566ea1d37a346c18a436c123))
 
+## 0.0.2-alpha.0 (2024-12-24)
+
+### Features
+
+- 更新 version ([4e34e33](https://github.com/edison-hm/magijs/commit/4e34e33abb9d44053fb832116ee9f42f8a267083))
+- compiled ([5ea8f06](https://github.com/edison-hm/magijs/commit/5ea8f065dac7e5ebabc58b0ba4ce7eff9a9903ba))
+- init ([0ba9bce](https://github.com/edison-hm/magijs/commit/0ba9bceb41d6ce04c2171a12a0af8daef3ca02bf))
+- **lint:** 配置中移除 prettier 对老配置的影响 ([685dafa](https://github.com/edison-hm/magijs/commit/685dafa90676f8c5077e1942ee8ec371ad08ff37))
+- prettier error ([61d9e97](https://github.com/edison-hm/magijs/commit/61d9e975232a92c9982af921ffa11779545530d6))
+- **vue:** 完善部署功能 ([a054349](https://github.com/edison-hm/magijs/commit/a054349a3660b3a507e01e45dd31e342a3468c8e))
+- wip ([31700ae](https://github.com/edison-hm/magijs/commit/31700aec0991ba336a36e5ffeaef8a2fbaf50d23))
+- wip ([ddffeab](https://github.com/edison-hm/magijs/commit/ddffeaba510af1a8c1b5b4c1805a2f05b1ac96f3))
+- wip ([8904db1](https://github.com/edison-hm/magijs/commit/8904db1fa6efed268c98233ac54076f36092fb3d))
+- wip ([d30e5db](https://github.com/edison-hm/magijs/commit/d30e5db73b48cd1147969835a45a784a464cbdb1))
+- wip ([a6f7b79](https://github.com/edison-hm/magijs/commit/a6f7b79875033eea566ea1d37a346c18a436c123))
+
+## [0.0.1](https://github.com/stbui/magijs/compare/v0.0.1-alpha.48...v0.0.1) (2024-05-16)
+
+### Features
+
+- **lint:** 配置中移除 prettier 对老配置的影响 ([685dafa](https://github.com/stbui/magijs/commit/685dafa90676f8c5077e1942ee8ec371ad08ff37))
+- prettier error ([61d9e97](https://github.com/stbui/magijs/commit/61d9e975232a92c9982af921ffa11779545530d6))
 
 ## [0.0.1-alpha.47](https://github.com/stbui/magijs/compare/v0.0.1-alpha.46...v0.0.1-alpha.47) (2022-11-23)
 

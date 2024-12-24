@@ -3,19 +3,86 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [0.0.1](https://github.com/stbui/magijs/compare/v0.0.1-alpha.48...v0.0.1) (2024-05-16)
-
+## 0.0.4-alpha.0 (2024-12-24)
 
 ### Features
 
-* 修复安全漏洞 ([fac27cd](https://github.com/stbui/magijs/commit/fac27cdd8d007a390f8be56036046f606760c135))
-* **lint:** 更新 ([f7bdad9](https://github.com/stbui/magijs/commit/f7bdad977f8887889af453ef762a0cf1114dd989))
-* **lint:** 更新lint代码 ([3538f4f](https://github.com/stbui/magijs/commit/3538f4fd1f2083c72222971939a036279421d933))
-* wip ([b77063a](https://github.com/stbui/magijs/commit/b77063a17c68057a8173ace164e12fe55266e327))
+- 完善 vue 打包集成 ([2a2f332](https://github.com/edison-hm/magijs/commit/2a2f3327312949adafaa09a0ea20b53831ff2ea0))
+- 修复安全漏洞 ([fac27cd](https://github.com/edison-hm/magijs/commit/fac27cdd8d007a390f8be56036046f606760c135))
+- cli ([29517c5](https://github.com/edison-hm/magijs/commit/29517c5cf037d4013f7609a3d28e56b5531a83c9))
+- create-app 临时文件 ([8b1db83](https://github.com/edison-hm/magijs/commit/8b1db8386945f87b0b1c65cc7ab0c0168f41d4f7))
+- eslint error ([3a2fda8](https://github.com/edison-hm/magijs/commit/3a2fda8fcdde93e6ffd00cb2a40d1925aab49b49))
+- **lint:** 更新 ([f7bdad9](https://github.com/edison-hm/magijs/commit/f7bdad977f8887889af453ef762a0cf1114dd989))
+- **lint:** 更新 lint 代码 ([3538f4f](https://github.com/edison-hm/magijs/commit/3538f4fd1f2083c72222971939a036279421d933))
+- lintstaged ([3eddfdf](https://github.com/edison-hm/magijs/commit/3eddfdfaffb0cee5694dbea6258646a2fd92fb81))
+- update ([cb5a15e](https://github.com/edison-hm/magijs/commit/cb5a15eb39e9e1bfa87a1b2cb52adea2ba313aeb))
+- vue ([9b6bbe2](https://github.com/edison-hm/magijs/commit/9b6bbe2f3ac2e1218b208bfe92b2e0e54f9eadd1))
+- **vue:** 完善部署功能 ([a054349](https://github.com/edison-hm/magijs/commit/a054349a3660b3a507e01e45dd31e342a3468c8e))
+- **vue:** 完善 vue 模板 ([e1a3767](https://github.com/edison-hm/magijs/commit/e1a37676636dd5dd141228fb5008145c443431cd))
+- wip ([b77063a](https://github.com/edison-hm/magijs/commit/b77063a17c68057a8173ace164e12fe55266e327))
+- wip ([6c79195](https://github.com/edison-hm/magijs/commit/6c7919582fdc462bc0c760f092d680c9989d9ed6))
+- wip ([eff550f](https://github.com/edison-hm/magijs/commit/eff550fdf3c9de29d17ad7689bb2388c38562f24))
+- wip ([31700ae](https://github.com/edison-hm/magijs/commit/31700aec0991ba336a36e5ffeaef8a2fbaf50d23))
+- wip ([ddffeab](https://github.com/edison-hm/magijs/commit/ddffeaba510af1a8c1b5b4c1805a2f05b1ac96f3))
+- wip ([8904db1](https://github.com/edison-hm/magijs/commit/8904db1fa6efed268c98233ac54076f36092fb3d))
+- wip ([b21cf33](https://github.com/edison-hm/magijs/commit/b21cf331dff55003068e354ece0b21f5eb811a8a))
 
+## 0.0.3-alpha.0 (2024-12-24)
 
+### Features
 
+- 完善 vue 打包集成 ([2a2f332](https://github.com/edison-hm/magijs/commit/2a2f3327312949adafaa09a0ea20b53831ff2ea0))
+- 修复安全漏洞 ([fac27cd](https://github.com/edison-hm/magijs/commit/fac27cdd8d007a390f8be56036046f606760c135))
+- cli ([29517c5](https://github.com/edison-hm/magijs/commit/29517c5cf037d4013f7609a3d28e56b5531a83c9))
+- create-app 临时文件 ([8b1db83](https://github.com/edison-hm/magijs/commit/8b1db8386945f87b0b1c65cc7ab0c0168f41d4f7))
+- eslint error ([3a2fda8](https://github.com/edison-hm/magijs/commit/3a2fda8fcdde93e6ffd00cb2a40d1925aab49b49))
+- **lint:** 更新 ([f7bdad9](https://github.com/edison-hm/magijs/commit/f7bdad977f8887889af453ef762a0cf1114dd989))
+- **lint:** 更新 lint 代码 ([3538f4f](https://github.com/edison-hm/magijs/commit/3538f4fd1f2083c72222971939a036279421d933))
+- lintstaged ([3eddfdf](https://github.com/edison-hm/magijs/commit/3eddfdfaffb0cee5694dbea6258646a2fd92fb81))
+- update ([cb5a15e](https://github.com/edison-hm/magijs/commit/cb5a15eb39e9e1bfa87a1b2cb52adea2ba313aeb))
+- vue ([9b6bbe2](https://github.com/edison-hm/magijs/commit/9b6bbe2f3ac2e1218b208bfe92b2e0e54f9eadd1))
+- **vue:** 完善部署功能 ([a054349](https://github.com/edison-hm/magijs/commit/a054349a3660b3a507e01e45dd31e342a3468c8e))
+- **vue:** 完善 vue 模板 ([e1a3767](https://github.com/edison-hm/magijs/commit/e1a37676636dd5dd141228fb5008145c443431cd))
+- wip ([b77063a](https://github.com/edison-hm/magijs/commit/b77063a17c68057a8173ace164e12fe55266e327))
+- wip ([6c79195](https://github.com/edison-hm/magijs/commit/6c7919582fdc462bc0c760f092d680c9989d9ed6))
+- wip ([eff550f](https://github.com/edison-hm/magijs/commit/eff550fdf3c9de29d17ad7689bb2388c38562f24))
+- wip ([31700ae](https://github.com/edison-hm/magijs/commit/31700aec0991ba336a36e5ffeaef8a2fbaf50d23))
+- wip ([ddffeab](https://github.com/edison-hm/magijs/commit/ddffeaba510af1a8c1b5b4c1805a2f05b1ac96f3))
+- wip ([8904db1](https://github.com/edison-hm/magijs/commit/8904db1fa6efed268c98233ac54076f36092fb3d))
+- wip ([b21cf33](https://github.com/edison-hm/magijs/commit/b21cf331dff55003068e354ece0b21f5eb811a8a))
 
+## 0.0.2-alpha.0 (2024-12-24)
+
+### Features
+
+- 完善 vue 打包集成 ([2a2f332](https://github.com/edison-hm/magijs/commit/2a2f3327312949adafaa09a0ea20b53831ff2ea0))
+- 修复安全漏洞 ([fac27cd](https://github.com/edison-hm/magijs/commit/fac27cdd8d007a390f8be56036046f606760c135))
+- cli ([29517c5](https://github.com/edison-hm/magijs/commit/29517c5cf037d4013f7609a3d28e56b5531a83c9))
+- create-app 临时文件 ([8b1db83](https://github.com/edison-hm/magijs/commit/8b1db8386945f87b0b1c65cc7ab0c0168f41d4f7))
+- eslint error ([3a2fda8](https://github.com/edison-hm/magijs/commit/3a2fda8fcdde93e6ffd00cb2a40d1925aab49b49))
+- **lint:** 更新 ([f7bdad9](https://github.com/edison-hm/magijs/commit/f7bdad977f8887889af453ef762a0cf1114dd989))
+- **lint:** 更新 lint 代码 ([3538f4f](https://github.com/edison-hm/magijs/commit/3538f4fd1f2083c72222971939a036279421d933))
+- lintstaged ([3eddfdf](https://github.com/edison-hm/magijs/commit/3eddfdfaffb0cee5694dbea6258646a2fd92fb81))
+- update ([cb5a15e](https://github.com/edison-hm/magijs/commit/cb5a15eb39e9e1bfa87a1b2cb52adea2ba313aeb))
+- vue ([9b6bbe2](https://github.com/edison-hm/magijs/commit/9b6bbe2f3ac2e1218b208bfe92b2e0e54f9eadd1))
+- **vue:** 完善部署功能 ([a054349](https://github.com/edison-hm/magijs/commit/a054349a3660b3a507e01e45dd31e342a3468c8e))
+- **vue:** 完善 vue 模板 ([e1a3767](https://github.com/edison-hm/magijs/commit/e1a37676636dd5dd141228fb5008145c443431cd))
+- wip ([b77063a](https://github.com/edison-hm/magijs/commit/b77063a17c68057a8173ace164e12fe55266e327))
+- wip ([6c79195](https://github.com/edison-hm/magijs/commit/6c7919582fdc462bc0c760f092d680c9989d9ed6))
+- wip ([eff550f](https://github.com/edison-hm/magijs/commit/eff550fdf3c9de29d17ad7689bb2388c38562f24))
+- wip ([31700ae](https://github.com/edison-hm/magijs/commit/31700aec0991ba336a36e5ffeaef8a2fbaf50d23))
+- wip ([ddffeab](https://github.com/edison-hm/magijs/commit/ddffeaba510af1a8c1b5b4c1805a2f05b1ac96f3))
+- wip ([8904db1](https://github.com/edison-hm/magijs/commit/8904db1fa6efed268c98233ac54076f36092fb3d))
+- wip ([b21cf33](https://github.com/edison-hm/magijs/commit/b21cf331dff55003068e354ece0b21f5eb811a8a))
+
+## [0.0.1](https://github.com/stbui/magijs/compare/v0.0.1-alpha.48...v0.0.1) (2024-05-16)
+
+### Features
+
+- 修复安全漏洞 ([fac27cd](https://github.com/stbui/magijs/commit/fac27cdd8d007a390f8be56036046f606760c135))
+- **lint:** 更新 ([f7bdad9](https://github.com/stbui/magijs/commit/f7bdad977f8887889af453ef762a0cf1114dd989))
+- **lint:** 更新 lint 代码 ([3538f4f](https://github.com/stbui/magijs/commit/3538f4fd1f2083c72222971939a036279421d933))
+- wip ([b77063a](https://github.com/stbui/magijs/commit/b77063a17c68057a8173ace164e12fe55266e327))
 
 ## [0.0.1-alpha.48](https://github.com/stbui/magijs/compare/v0.0.1-alpha.47...v0.0.1-alpha.48) (2022-12-06)
 

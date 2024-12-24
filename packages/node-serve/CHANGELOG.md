@@ -3,13 +3,78 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.0.4-alpha.0 (2024-12-24)
+
+### Bug Fixes
+
+- **node-server:** 修复没有配置代理失败问题 ([42a6667](https://github.com/edison-hm/magijs/commit/42a666720919fc6e47d72c6665573f389ecfffa5))
+
+### Features
+
+- 更新 version ([4e34e33](https://github.com/edison-hm/magijs/commit/4e34e33abb9d44053fb832116ee9f42f8a267083))
+- 兼容 httpProxy 传参的两种形式 ([f2c362a](https://github.com/edison-hm/magijs/commit/f2c362af7867f0160eb42c4520e8b48e8f3ced59))
+- add compression filter ([1cb2944](https://github.com/edison-hm/magijs/commit/1cb2944a32dfc36e33a788fdefd1db2f1b44ca97))
+- compiled ([5ea8f06](https://github.com/edison-hm/magijs/commit/5ea8f065dac7e5ebabc58b0ba4ce7eff9a9903ba))
+- **vue:** 完善部署功能 ([a054349](https://github.com/edison-hm/magijs/commit/a054349a3660b3a507e01e45dd31e342a3468c8e))
+- wi pwip ([ceddc86](https://github.com/edison-hm/magijs/commit/ceddc864a743fb583338be81bc72fdbf6c0b164a))
+- wip ([31700ae](https://github.com/edison-hm/magijs/commit/31700aec0991ba336a36e5ffeaef8a2fbaf50d23))
+- wip ([ddffeab](https://github.com/edison-hm/magijs/commit/ddffeaba510af1a8c1b5b4c1805a2f05b1ac96f3))
+- wip ([8904db1](https://github.com/edison-hm/magijs/commit/8904db1fa6efed268c98233ac54076f36092fb3d))
+- wip ([d30e5db](https://github.com/edison-hm/magijs/commit/d30e5db73b48cd1147969835a45a784a464cbdb1))
+- wip ([08ebc32](https://github.com/edison-hm/magijs/commit/08ebc328db21f6ac5132e608165ef714f825e35d))
+- wip ([519532d](https://github.com/edison-hm/magijs/commit/519532de4b305a13b6865370c4ae33e853f5c456))
+- wip ([a6f7b79](https://github.com/edison-hm/magijs/commit/a6f7b79875033eea566ea1d37a346c18a436c123))
+- wip ([84c3dd2](https://github.com/edison-hm/magijs/commit/84c3dd2463238225a5f955a656fb88eadda5a2d1))
+
+## 0.0.3-alpha.0 (2024-12-24)
+
+### Bug Fixes
+
+- **node-server:** 修复没有配置代理失败问题 ([42a6667](https://github.com/edison-hm/magijs/commit/42a666720919fc6e47d72c6665573f389ecfffa5))
+
+### Features
+
+- 更新 version ([4e34e33](https://github.com/edison-hm/magijs/commit/4e34e33abb9d44053fb832116ee9f42f8a267083))
+- 兼容 httpProxy 传参的两种形式 ([f2c362a](https://github.com/edison-hm/magijs/commit/f2c362af7867f0160eb42c4520e8b48e8f3ced59))
+- add compression filter ([1cb2944](https://github.com/edison-hm/magijs/commit/1cb2944a32dfc36e33a788fdefd1db2f1b44ca97))
+- compiled ([5ea8f06](https://github.com/edison-hm/magijs/commit/5ea8f065dac7e5ebabc58b0ba4ce7eff9a9903ba))
+- **vue:** 完善部署功能 ([a054349](https://github.com/edison-hm/magijs/commit/a054349a3660b3a507e01e45dd31e342a3468c8e))
+- wi pwip ([ceddc86](https://github.com/edison-hm/magijs/commit/ceddc864a743fb583338be81bc72fdbf6c0b164a))
+- wip ([31700ae](https://github.com/edison-hm/magijs/commit/31700aec0991ba336a36e5ffeaef8a2fbaf50d23))
+- wip ([ddffeab](https://github.com/edison-hm/magijs/commit/ddffeaba510af1a8c1b5b4c1805a2f05b1ac96f3))
+- wip ([8904db1](https://github.com/edison-hm/magijs/commit/8904db1fa6efed268c98233ac54076f36092fb3d))
+- wip ([d30e5db](https://github.com/edison-hm/magijs/commit/d30e5db73b48cd1147969835a45a784a464cbdb1))
+- wip ([08ebc32](https://github.com/edison-hm/magijs/commit/08ebc328db21f6ac5132e608165ef714f825e35d))
+- wip ([519532d](https://github.com/edison-hm/magijs/commit/519532de4b305a13b6865370c4ae33e853f5c456))
+- wip ([a6f7b79](https://github.com/edison-hm/magijs/commit/a6f7b79875033eea566ea1d37a346c18a436c123))
+- wip ([84c3dd2](https://github.com/edison-hm/magijs/commit/84c3dd2463238225a5f955a656fb88eadda5a2d1))
+
+## 0.0.2-alpha.0 (2024-12-24)
+
+### Bug Fixes
+
+- **node-server:** 修复没有配置代理失败问题 ([42a6667](https://github.com/edison-hm/magijs/commit/42a666720919fc6e47d72c6665573f389ecfffa5))
+
+### Features
+
+- 更新 version ([4e34e33](https://github.com/edison-hm/magijs/commit/4e34e33abb9d44053fb832116ee9f42f8a267083))
+- 兼容 httpProxy 传参的两种形式 ([f2c362a](https://github.com/edison-hm/magijs/commit/f2c362af7867f0160eb42c4520e8b48e8f3ced59))
+- add compression filter ([1cb2944](https://github.com/edison-hm/magijs/commit/1cb2944a32dfc36e33a788fdefd1db2f1b44ca97))
+- compiled ([5ea8f06](https://github.com/edison-hm/magijs/commit/5ea8f065dac7e5ebabc58b0ba4ce7eff9a9903ba))
+- **vue:** 完善部署功能 ([a054349](https://github.com/edison-hm/magijs/commit/a054349a3660b3a507e01e45dd31e342a3468c8e))
+- wi pwip ([ceddc86](https://github.com/edison-hm/magijs/commit/ceddc864a743fb583338be81bc72fdbf6c0b164a))
+- wip ([31700ae](https://github.com/edison-hm/magijs/commit/31700aec0991ba336a36e5ffeaef8a2fbaf50d23))
+- wip ([ddffeab](https://github.com/edison-hm/magijs/commit/ddffeaba510af1a8c1b5b4c1805a2f05b1ac96f3))
+- wip ([8904db1](https://github.com/edison-hm/magijs/commit/8904db1fa6efed268c98233ac54076f36092fb3d))
+- wip ([d30e5db](https://github.com/edison-hm/magijs/commit/d30e5db73b48cd1147969835a45a784a464cbdb1))
+- wip ([08ebc32](https://github.com/edison-hm/magijs/commit/08ebc328db21f6ac5132e608165ef714f825e35d))
+- wip ([519532d](https://github.com/edison-hm/magijs/commit/519532de4b305a13b6865370c4ae33e853f5c456))
+- wip ([a6f7b79](https://github.com/edison-hm/magijs/commit/a6f7b79875033eea566ea1d37a346c18a436c123))
+- wip ([84c3dd2](https://github.com/edison-hm/magijs/commit/84c3dd2463238225a5f955a656fb88eadda5a2d1))
+
 ## [0.0.1](https://github.com/stbui/magijs/compare/v0.0.1-alpha.48...v0.0.1) (2024-05-16)
 
 **Note:** Version bump only for package @magijs/node-serve
-
-
-
-
 
 ## [0.0.1-alpha.47](https://github.com/stbui/magijs/compare/v0.0.1-alpha.46...v0.0.1-alpha.47) (2022-11-23)
 

@@ -10,7 +10,21 @@ export function httpProxy(options, publicPath?, staticDir = 'dist') {
 
   app.use(cors());
   app.use(history());
-  app.use(compression());
+  // app.use(compression());
+  app.use(compression({
+    filter: (req, res) => {
+      const { compressionFilter } = options;
+      if(!compressionFilter) return compression.filter(req, res);
+      if(typeof compressionFilter === 'function') {
+        return compressionFilter(req.url);
+      } else if (Array.isArray(compressionFilter) && compressionFilter.includes(req.url)) {
+        return false;
+      } else if (typeof compressionFilter === 'string' && compressionFilter === req.url) {
+        return false;
+      }
+      return compression.filter(req, res);
+    }
+  }));
 
   let proxyMiddlewares: any = [];
   if (options) {

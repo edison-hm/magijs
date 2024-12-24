@@ -5,7 +5,10 @@ import cors from '@magijs/compiled/cors';
 import { createProxyMiddleware } from '@magijs/compiled/http-proxy-middleware';
 
 export function httpProxy(options, publicPath?, staticDir = 'dist') {
+
   const app = express();
+  const proxy = options?.proxy || options;
+
   app.get('/health', (req, res) => res.status(200).send('OK'));
 
   app.use(cors());
@@ -27,10 +30,10 @@ export function httpProxy(options, publicPath?, staticDir = 'dist') {
   }));
 
   let proxyMiddlewares: any = [];
-  if (options) {
-    Object.keys(options)
+  if (proxy) {
+    Object.keys(proxy)
       .map(option => {
-        const proxyOptions = options[option];
+        const proxyOptions = proxy[option];
         proxyOptions.context = option;
 
         return proxyOptions;
@@ -57,3 +60,5 @@ export function httpProxy(options, publicPath?, staticDir = 'dist') {
   console.log('[magi] 代理服务:', '完成启动，监听端口8080');
   console.log();
 }
+
+

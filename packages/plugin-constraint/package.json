@@ -18,6 +18,9 @@
   "dependencies": {
     "@magijs/compiled": "^0.0.1"
   },
+  "devDependencies": {
+    "umi": "^3.x.x"
+  },
   "peerDependencies": {
     "umi": "^3.x.x"
   },

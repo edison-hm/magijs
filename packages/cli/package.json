@@ -24,6 +24,7 @@
     "@magijs/lint": "^0.0.1",
     "@magijs/preset-plugin": "^0.0.1",
     "@umijs/preset-vue": "4.0.21",
+    "@umijs/utils": "4.0.21",
     "umi": "4.0.21"
   },
   "peerDependencies": {

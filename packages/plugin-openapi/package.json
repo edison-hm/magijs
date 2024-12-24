@@ -20,6 +20,9 @@
     "@magijs/openapi": "^0.0.1",
     "swagger-ui-react": "^3.44.0"
   },
+  "devDependencies": {
+    "umi": "^3.x.x"
+  },
   "peerDependencies": {
     "umi": "^3.x.x"
   },
